@@ -120,13 +120,7 @@ a {
 a:hover {
     color: #208479;
 }
-@media (max-width: 768px) {
-    nav ul li {
-        display: block;
-        margin: 10px 0;
-    } 
   .profile-photo {
         width: 50%; 
         margin: 0 auto; 
     }
-}
